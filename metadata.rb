@@ -10,5 +10,5 @@ supports 'ubuntu', '>= 12.04'
 supports 'redhat', '>= 6.4'
 supports 'centos', '>= 6.4'
 
-depends 'consul', '= 0.10.1'
+depends 'consul', '= 0.10.2'
 depends 'hashicorp-vault', '~> 1.1'
